@@ -22,7 +22,7 @@ A hybrid approach combining:
 
 ## Repository Structure
 
-...
+```
 arkose/
 │
 ├── arkose - data analyst test - clients.csv # Customer data
@@ -38,7 +38,9 @@ arkose/
 │
 ├── arkose_rapport.pdf # Executive summary report
 └── README.md # Project overview
-...
+
+```
+
 ## Key Insights
 
 - Customer segmentation based on activity levels  
