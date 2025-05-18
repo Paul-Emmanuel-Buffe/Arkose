@@ -22,6 +22,7 @@ A hybrid approach combining:
 
 ## Repository Structure
 
+...
 arkose/
 │
 ├── arkose - data analyst test - clients.csv # Customer data
@@ -37,11 +38,7 @@ arkose/
 │
 ├── arkose_rapport.pdf # Executive summary report
 └── README.md # Project overview
-
-markdown
-Copier
-Modifier
-
+...
 ## Key Insights
 
 - Customer segmentation based on activity levels  
@@ -68,4 +65,4 @@ The study concludes with concrete suggestions:
 ## Author
 
 **Paul-Emmanuel Buffe**  
-This case study was conducted autonomously as part of a proactive effort to deepen skills in data analysis a
+This case study was conducted autonomously as part of a proactive effort to deepen skills in data analysis.
